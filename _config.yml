@@ -1,7 +1,7 @@
 # Site settings
 title: Hugo Júnior
 description: 'Página para publicação de artigos aleátorios sobre assuntos aleátorios.'
-url: 'http://127.0.0.1:4000'
+url: 'http://hugojunior.github.io'
 baseurl: '/'
 google_analytics: 'UA-69336887-1'
 disqus_shortname: 'hugojuniior'
