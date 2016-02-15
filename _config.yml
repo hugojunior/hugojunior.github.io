@@ -3,7 +3,7 @@ title: Hugo Júnior
 description: 'Página para publicação de artigos aleátorios sobre assuntos aleátorios.'
 url: 'http://blog.hugojunior.com'
 baseurl: '/'
-google_analytics: 'UA-69336887-1'
+google_analytics: 'UA-69336887-3'
 disqus_shortname: 'hugojuniior'
 
 author:
