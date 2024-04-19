@@ -4,7 +4,6 @@ title: O primeiro passo
 date: 2024-04-17 19:00:00 -0300
 image: banner-o-primeiro-passo.jpg
 description: Criar um blog pessoal sempre foi um desejo antigo meu desde que fui apresentado ao mundo da internet. Embora eu tenha tentado muitas vezes, acabava desistindo...
-tags: blog
 ---
 Criar um blog pessoal sempre foi um desejo antigo meu desde que fui apresentado ao mundo da internet. Embora eu tenha tentado muitas vezes, acabava desistindo por achar que meus textos não estavam bons o suficiente para serem publicados. No entanto, uma noite de insônia causada por um excesso de cafeína me fez resgatar essa ideia mais uma vez.
 
