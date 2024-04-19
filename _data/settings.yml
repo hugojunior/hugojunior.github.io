@@ -1,8 +1,10 @@
 #-------------------------------
 # General Site Settings
-title: Hugo Júnior
+title: Hugo Júnior - Explorando o Mundo Tecnológico
 logo: logo.png
-description: Um entusiasta de tecnologia, estudante, desenvolvedor e gamer, estou sempre explorando esse mundo de bits.
+description: Um cearense entusiasta de tecnologia, estudante, desenvolvedor e gamer, estou sempre explorando este vasto universo de zeros e uns.
+url: "https://hugojunior.com"
+preview: preview.png
 
 
 #-------------------------------
@@ -11,7 +13,7 @@ author:
   name: Hugo Júnior
   image: banner-home.jpg
   say-hello: Olá! Sou <strong><a>Hugo Júnior</a></strong>,
-  bio: Um entusiasta de <strong>tecnologia</strong>, estudante, desenvolvedor e gamer, estou sempre explorando esse mundo de bits. Este é o espaço onde compartilho o que me inspira.
+  bio: Um cearense entusiasta de <strong>tecnologia</strong>, estudante, desenvolvedor e gamer, estou sempre explorando este vasto universo de zeros e uns.
 
 
 #-------------------------------

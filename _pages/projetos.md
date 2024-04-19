@@ -3,6 +3,7 @@ layout: page
 title: Projetos
 permalink: /projetos/
 image: banner-projetos.jpg
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt...
 order: 2
 ---
 

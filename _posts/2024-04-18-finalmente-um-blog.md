@@ -3,6 +3,7 @@ layout: post
 title:  Finalmente um Blog
 date:   2024-04-17 19:00:00 -0300
 image:  banner-finalmente-um-blog.jpg
+description: Criar um blog pessoal é algo que sempre quis fazer desde que conheci a internet...
 tags:   blog
 ---
 Criar um blog pessoal é algo que sempre quis fazer desde que conheci a internet, e já fiz muitos, mas sempre achava que não eram bons o suficiente e acabava nem publicando.

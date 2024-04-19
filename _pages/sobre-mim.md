@@ -3,6 +3,7 @@ layout: page
 title: Quem sou
 permalink: /quem-sou/
 image: banner-sobre-mim.jpg
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt...
 order: 1
 ---
 
