@@ -46,9 +46,9 @@
       font-size: 30px;
       
       a {
-        color: $dark;
+        color: $brand-color;
         &:hover {
-          color: $black;
+          color: $dark;
         }
       }
     }
