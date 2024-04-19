@@ -1,0 +1,33 @@
+#-------------------------------
+# General Site Settings
+title: Hugo Júnior
+logo: logo.png
+description: Um entusiasta de tecnologia, estudante, desenvolvedor e gamer, estou sempre explorando esse mundo de bits.
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Hugo Júnior
+  image: banner-home.jpg
+  say-hello: Olá! Sou <strong><a>Hugo Júnior</a></strong>,
+  bio: Um entusiasta de <strong>tecnologia</strong>, estudante, desenvolvedor e gamer, estou sempre explorando esse mundo de bits. Este é o espaço onde compartilho o que me inspira.
+
+
+#-------------------------------
+# Contact links
+github: https://github.com/hugojunior
+linkedin: https://linkedin.com/in/hugojunior
+twitter: https://twitter.com/hugojuniior
+instagram: https://instagram.com/hugojunior
+email: contato@hugojunior.com
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: hugojuniior
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: G-WMBHW3QS2C
