@@ -7,7 +7,7 @@ description: A computação em nuvem sempre me fascinou, como um enigma intrigan
 ---
 A computação em nuvem sempre me fascinou, como um enigma intrigante à espera de ser solucionado. Mas era como um navio à deriva sem bússola, sem um roteiro claro para navegar nesse mar de possibilidades. Foi então que um curso de sistemas distribuídos na faculdade se tornou a chave para desvendar esse universo digital em constante expansão.
 
-Nessa jornada em busca de conhecimento, descobri a [Escola da Nuvem](https://escoladanuvem.org/){:target="_blank"}, uma plataforma de ensino online dedicada à computação em nuvem. Após me inscrever no programa e passar pelos processos seletivos, tenho vivenciado uma experiência incrível de aprendizado. Ao término do curso, recebemos um voucher para realizar a prova de certificação AWS Cloud Practitioner!
+Nessa jornada em busca de conhecimento, descobri a [Escola da Nuvem](https://escoladanuvem.org/){:target="_blank"}, uma plataforma de ensino online dedicada à computação em nuvem. Após me inscrever no programa e passar pelos processos seletivos, tenho vivenciado uma experiência incrível de aprendizado. Ao término do curso, recebemos um voucher para realizar a prova de certificação **_AWS Cloud Practitioner_**!
 
 ## Material de Estudos
 Organizei meu plano de estudos focando na arquitetura da AWS e seus serviços, complementando com simulados para consolidar o conhecimento.
@@ -31,7 +31,7 @@ A marcação do exame é um processo simples e feito através do site [aws.train
 Dicas importantes:
 
 - Use seu nome completo real no cadastro. Esse nome será conferido com seu documento na hora da prova.
-- Solicite a acomodação "ESL +30 MINUTES" no menu "Exam accommodations". Esse tempo adicional te dará mais tranquilidade para concluir a prova.
+- Solicite a acomodação "**ESL +30 MINUTES**" no menu "*Exam accommodations*". Esse tempo adicional te dará mais tranquilidade para concluir a prova.
 - Marque o exame com antecedência. Assim, você garante sua vaga no local e horário desejados.
 - Remarcar o exame é gratuito e pode ser feito facilmente.
 
@@ -94,14 +94,14 @@ Assim que terminei as 65 questões do exame, precisei responder a uma avaliaçã
 ## Próximos Passos
 Agora que conquistei a certificação AWS Cloud Practitioner, meus próximos passos são:
 
-- Colocar o conhecimento teórico em prática: Pretendo aproveitar o acesso ao canvas do curso da Escola da Nuvem para refazer os laboratórios e aprofundar meus conhecimentos práticos.
-- Continuar estudando: Minha jornada na nuvem AWS não para por aqui! Quero me preparar para as certificações de associate Developer ou Architect para me tornar um especialista ainda mais qualificado.
+- **Colocar o conhecimento teórico em prática**: Pretendo aproveitar o acesso ao canvas do curso da Escola da Nuvem para refazer os laboratórios e aprofundar meus conhecimentos práticos.
+- **Continuar estudando**: Minha jornada na nuvem AWS não para por aqui! Quero me preparar para as certificações de *Associate Developer* ou *Associate Architect* para me tornar um especialista ainda mais qualificado.
 
 ## Conclusão
-Obter a certificação AWS Cloud Practitioner foi uma experiência enriquecedora que me proporcionou uma base sólida para compreender melhor o ecossistema da computação em nuvem.
+Obter a certificação **_AWS Cloud Practitioner_** foi uma experiência enriquecedora que me proporcionou uma base sólida para compreender melhor o ecossistema da computação em nuvem.
 
 Espero que esse relato tenha sido útil para aqueles que desejam seguir o mesmo caminho.
 
 ---
 
-Meu perfil de certificações no [Credly](https://www.credly.com/users/hugojunior/){:target="_blank"}.
+Meu perfil de certificações no [**Credly**](https://www.credly.com/users/hugojunior/){:target="_blank"}.
