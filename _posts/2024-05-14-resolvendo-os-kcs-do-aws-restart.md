@@ -3,11 +3,8 @@ layout: post
 title: Resolvendo os KCs do AWS Re/Start
 date: 2024-05-14 14:36:00 -0300
 image: banner-aws-restart.png
-description: Os Knowledge Checks (KCs) são atividades de perguntas e respostas oferecidas aos alunos da AWS Re/Start. São componentes essenciais do curso e uma excelente ferramenta de estudo...
+description: Os Knowledge Checks (KCs) são atividades de perguntas e respostas oferecidas aos alunos da AWS Re/Start. São componentes essenciais do curso, servindo para reforçar o aprendizado...
 ---
-# AWS re/Start - Resolvendo KCs
-Recentemente, despertei interesse pela tecnologia em nuvem após cursar uma disciplina de sistemas distribuídos na faculdade. Decidi então explorar cursos na área e me deparei com a [Escola da Nuvem](https://escoladanuvem.org/){:target="_blank"}, onde estou participando de um curso de alta qualidade e sem custos. Além das atividades práticas de laboratório, há também componentes teóricos que servem para validar o conhecimento adquirido. Os KCs desempenham um papel fundamental nesse processo, e por isso optei por compartilhar essa experiência.
-
 Os *Knowledge Checks* são atividades de perguntas e respostas oferecidas aos alunos da AWS Re/Start. São componentes essenciais do curso, servindo para reforçar o aprendizado de cada módulo e são requisitos para a conclusão do programa.
 
 O material dos KCs está repleto de informações sobre os serviços da AWS e é extremamente útil para quem está se preparando para a certificação de **_Cloud Practitioner_**, oferecendo uma excelente oportunidade para simulações de exames. Este é o motivo pelo qual estou disponibilizando-os aqui.
